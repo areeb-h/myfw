@@ -1,4 +1,4 @@
-package framework
+package myfw
 
 import (
 	"github.com/gofiber/fiber/v2"
